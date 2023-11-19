@@ -1,0 +1,17 @@
+What is Behave
+
+What is the difference between BDD and TDD
+
+What is the difference between Scenario and Scenario Outline
+
+How to apply tags
+
+How to work with context tables
+
+What is Background
+
+How to pass a context variable between Scenarios
+
+Are steps with the same name allowed?
+
+What if scenarios have the same name?
